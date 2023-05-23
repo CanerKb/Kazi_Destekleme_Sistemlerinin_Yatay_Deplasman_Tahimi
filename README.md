@@ -1,0 +1,2 @@
+# Kazi_Destekleme_Sistemlerinin_Yatay_Deplasman_Tahimi
+Yapi cukurlarinda meydana gelecek olasi deplasmanlarin tahmini icin YSA modeline dayali makine ogrenimi algoritmasinin gelistirilmesi
